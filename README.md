@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently learning backend and database technology.
 
+- 💾 Learning to be an **DBA**
+
 - 📫 How to reach me **diallomalado8@gmail.com**
                                                                                              
 - ⚡ Fun fact **I like BasketBall 🏀 and Anime 🔥🔥**
