@@ -17,6 +17,9 @@
 
 - 🤓 Autodidacte **#LearningByDoing** 👨‍🎓
 
+- 🔆 J'ai fait une grosse decouverte: 
+         🔴 On peut tout apprendre sur internet. 
+
 <p><img align="right" alt="gif" src="https://github.com/MirajMalado/mirajmalado/blob/main/mirgif.gif" width="400" heigh="400" /></p>
 
 
