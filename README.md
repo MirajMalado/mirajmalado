@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on learning backend and database technology.
+- 🔭 I’m currently learning backend and database technology.
 
 - 📫 How to reach me **diallomalado8@gmail.com**
                                                                                              
-- ⚡ Fun fact **I like BasketBall and Anime**
+- ⚡ Fun fact **I like BasketBall 🏀 and Anime 🔥🔥**
+
+-    Autodidacte **#LearningByDoing** 🤓👨‍🎓
 
 <p><img align="right" alt="gif" src="https://github.com/MirajMalado/mirajmalado/blob/main/mirgif.gif" width="400" heigh="400" /></p>
 
