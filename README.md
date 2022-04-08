@@ -13,7 +13,7 @@
                                                                                              
 - ⚡ Fun fact **I like BasketBall and Anime**
 
-
+<p><img align="right" alt="gif" src="https://github.com/MirajMalado/mirajmalado/blob/main/mirgif.gif" width="400" heigh="400" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
