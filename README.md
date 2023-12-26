@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malado Mi'raj Diallo</h1>
-<h3 align="center">I am an apprentice Fullstack developer and passionate Scrummaster from Sénégal</h3>
+<h3 align="center">I am a passionate Junior Product Deesigner from Sénégal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirajmalado&label=Profile%20views&color=0e75b6&style=flat" alt="mirajmalado" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently learning backend and database technology.
+- 🔭 I’m currently learning to be a Scrum Master.
 
-- 💾 Learning to be an **DBA**
+- 💾 Learning to be an **Scrum Master/UX**
 
 - 📫 How to reach me **diallomalado8@gmail.com**
                                                                                              
